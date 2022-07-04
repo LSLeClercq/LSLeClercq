@@ -3,10 +3,7 @@
 ## :microscope: Research interests
 Molecular Genetics | Epigenetics | Telomere biology | Immunology
 ## :mortar_board: Education
- - Ph.D. Genetics (UFS)
- - M.Sc. (UP)
- - B.Sc. Hons (UP)
- - B.Sc. (UP)
+Ph.D. Genetics (UFS) | M.Sc. (UP) | B.Sc. Hons (UP) | B.Sc. (UP)
 <!--
 **LSLeClercq/LSLeClercq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
