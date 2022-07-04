@@ -1,5 +1,12 @@
-### Hi there 👋
+# Louis-Stéphane IV Le Clercq [![ORCID](https://user-images.githubusercontent.com/85708751/177141712-b19a2b6c-5efd-466c-b867-2ad11bc10b46.png)](https://orcid.org/0000-0002-8713-8920)
 
+## :microscope: Research interests
+Molecular Genetics | Epigenetics | Telomere biology | Immunology
+## :mortar_board: Education
+ - Ph.D. Genetics (UFS)
+ - M.Sc. (UP)
+ - B.Sc. Hons (UP)
+ - B.Sc. (UP)
 <!--
 **LSLeClercq/LSLeClercq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +19,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
