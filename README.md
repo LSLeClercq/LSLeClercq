@@ -1,7 +1,7 @@
 # Louis-Stéphane IV Le Clercq <sup>1,2</sup> [![ORCID](https://user-images.githubusercontent.com/85708751/177141712-b19a2b6c-5efd-466c-b867-2ad11bc10b46.png)](https://orcid.org/0000-0002-8713-8920)
 ```
 1. Department of Genetics, Faculty of Natural Sciences, University of the Free State
-2. Foundational Biordiversity, South African National Biodiversity Institute (SANBI)
+2. Foundational Biodiversity, South African National Biodiversity Institute (SANBI)
 ```
 ## :microscope: Research interests
 Molecular Genetics | Epigenetics | Telomere biology | Immunology | Python
