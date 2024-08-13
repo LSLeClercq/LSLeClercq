@@ -1,7 +1,6 @@
-# Dr. Louis-Stéphane IV Le Clercq <sup>1,2</sup> [![ORCID](https://user-images.githubusercontent.com/85708751/177141712-b19a2b6c-5efd-466c-b867-2ad11bc10b46.png)](https://orcid.org/0000-0002-8713-8920)
+# Dr. Louis-Stéphane IV Le Clercq <sup>1</sup> [![ORCID](https://user-images.githubusercontent.com/85708751/177141712-b19a2b6c-5efd-466c-b867-2ad11bc10b46.png)](https://orcid.org/0000-0002-8713-8920)
 ```
-1. Department of Genetics, Faculty of Natural and Agricultural Sciences, University of the Free State (UFS)
-2. Foundational Biodiversity Science, South African National Biodiversity Institute (SANBI)
+1. Epigenetics and Cell Fate (UMR7216), Centre National de la Recherche Scientifique (CNRS), Paris, France
 ```
 ## :microscope: Research interests
 Molecular Genetics | Epigenetics | Telomere biology | Immunology | Python
