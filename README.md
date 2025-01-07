@@ -3,7 +3,7 @@
 1. Epigenetics and Cell Fate (UMR7216), Centre National de la Recherche Scientifique (CNRS), Paris, France
 ```
 ## :microscope: Research interests
-Molecular Genetics | Epigenetics | Telomere biology | Immunology | Python
+Molecular Genetics | Epigenetics | Methylation | Cell Biology | Data Science
 ## :mortar_board: Education
 Ph.D. Genetics (UFS) | M.Sc. (UP) | B.Sc. Hons (UP) | B.Sc. (UP) | NSC
 <!--
